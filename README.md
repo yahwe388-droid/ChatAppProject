@@ -27,5 +27,5 @@ A simple Java-based chat application with real-time messaging using socket progr
 
 ## License
 
-[@Keby]((https://github.com/yahwe388-droid))
+[@Keby](https://github.com/yahwe388-droid)
 
